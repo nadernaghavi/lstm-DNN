@@ -16,4 +16,7 @@ we used the first half of these sequences as inputs and the second half as targe
 
 ## first set of sequences:
 
-### network's loss:
+### network's loss & created sequences:
+
+![](images/loss1.png)
+![](images/seq1.png)
