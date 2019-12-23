@@ -12,7 +12,7 @@ abababnbababae
 ababababnbabababae
 .....
 
-we used the first half of these sequences as inputs and the second half as targets. After 300 epochs the results for two sets of sequences are as follows:
+we used the first half of these sequences as inputs and the second half as targets. After 300 epochs (batch_size = 10) the results for two sets of sequences are as follows:
 
 ## first set of sequences:
 
@@ -20,3 +20,11 @@ we used the first half of these sequences as inputs and the second half as targe
 
 ![](images/loss1.png)
 ![](images/seq1.png)
+
+## second set of sequences:
+
+### network's loss & created sequences:
+
+![](images/loss2.png)
+![](images/seq2.png)
+
